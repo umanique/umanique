@@ -28,7 +28,8 @@ const Uman = {
            { Degree Collge: R.D. National College, 
              Year : 2016-2021 }, 
              
-           { Junior Collge & School: Bandra Urdu High School & Junior College, 
+           { Junior Collge & School: Bandra Urdu High School
+             & Junior College, 
              Year : 2012-2016 }, 
            ],
         }
